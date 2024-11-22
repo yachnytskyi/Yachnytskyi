@@ -7,7 +7,7 @@
 ## 🚀 **Key Skills & Expertise**
 
 ### **Backend Development:**
-- Proficient in **Golang** and **Rust**, with hands-on experience in developing high-performance applications and distributed systems.
+Proficient in **Golang** and **Rust**, with hands-on experience in developing high-performance applications and distributed systems.
 
 ### **Database Management:**
 - Expertise in **PostgreSQL**, **SQL**, **MongoDB**, **Redis**, and **ScyllaDB**, optimizing data storage, retrieval, and performance.
