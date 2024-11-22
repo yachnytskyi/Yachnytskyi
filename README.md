@@ -1,38 +1,48 @@
-As an experienced Golang and Rust Backend Developer, I specialize in building scalable, high-performance backend solutions for IT product companies and outsourcing firms. With a strong foundation in systems architecture and backend development, I focus on creating robust applications and optimizing legacy systems with cutting-edge technologies.
+Constantine Yachnytskyi | Backend Developer (Golang & Rust)
 
-Key Skills & Expertise:
-Backend Development: Proficient in Golang and Rust, with hands-on experience in developing high-performance applications and distributed systems.
-Database Management: Expertise in PostgreSQL, SQL, MongoDB, Redis, and ScyllaDB, optimizing data storage, retrieval, and performance.
-Cloud & Containerization: Advanced knowledge of Docker and Kubernetes, streamlining development workflows and deployment.
-Logging & Monitoring: Practical experience with the ELK stack (Elasticsearch, Logstash, Kibana) for efficient log aggregation and troubleshooting.
-Microservices & Messaging: Proficient in Microservices, RabbitMQ, and gRPC for scalable, modular backend solutions.
-CI/CD: Experienced with GitLab CI/CD, Travis, and Jenkins, automating build, test, and deployment pipelines.
+👋 Hi, I’m Constantine! I specialize in building scalable, high-performance backend solutions for IT product companies and outsourcing firms. With a strong foundation in systems architecture and backend development, I focus on creating robust applications and optimizing legacy systems using cutting-edge technologies like Golang and Rust.
 
-Project Highlights:
-Implemented pagination and filters from scratch, improving query efficiency.
-Integrated Elasticsearch for full-text search, enhancing data retrieval performance.
-Led SQL optimizations to reduce query times by 40%, boosting system performance.
-Developed reliable data pipelines ensuring fault tolerance and smooth data flow.
-Architected microservices for scalable backend services.
-Implemented comprehensive unit and integration tests to ensure high-quality, reliable code.
+🚀 Key Skills & Expertise
 
-Professional Experience:
+Backend Development:
+Proficient in Golang and Rust, with hands-on experience developing high-performance applications and distributed systems.
+Database Management:
+Expertise in PostgreSQL, SQL, MongoDB, Redis, and ScyllaDB, optimizing data storage, retrieval, and performance.
+Cloud & Containerization:
+Advanced knowledge of Docker and Kubernetes, streamlining development workflows and deployment.
+Logging & Monitoring:
+Practical experience with the ELK stack (Elasticsearch, Logstash, Kibana) for efficient log aggregation and troubleshooting.
+Microservices & Messaging:
+Proficient in Microservices, RabbitMQ, and gRPC for scalable, modular backend solutions.
+CI/CD:
+Experienced with GitLab CI/CD, Travis, and Jenkins, automating build, test, and deployment pipelines.
+💼 Professional Experience
+
 Actively involved in the full application lifecycle, from writing clean, maintainable code to debugging and delivering scalable solutions.
 Collaborated with teams to define technical requirements, address challenges, and optimize development processes.
 Built reusable code libraries and maintained comprehensive documentation for long-term use.
 Passionate about creating well-architected systems with clean code that is easy to refactor, maintain, and scale, while solving complex technical challenges.
-Enthusiastic about developing game engines and exploring interactive systems to push the boundaries technology.
+Enthusiastic about developing game engines and exploring interactive systems to push the boundaries of technology.
+🌟 Project Highlights
 
-Certifications:
-PostgreSQL
-Golang
-Docker
-Kubernetes
-Languages:
+Implemented Pagination and Filters: Improved query efficiency and reduced latency.
+Integrated Elasticsearch: Enhanced data retrieval performance with full-text search capabilities.
+SQL Optimizations: Led optimizations to reduce query times by 40%, boosting system performance.
+Data Pipelines: Developed reliable data pipelines ensuring fault tolerance and smooth data flow.
+Microservices Architecture: Architected scalable backend services with microservices for flexibility and performance.
+Unit & Integration Testing: Implemented comprehensive testing strategies to ensure high-quality, reliable code.
+🏆 Certifications
+
+PostgreSQL Certified
+Golang Certified
+Docker Certified
+Kubernetes Certified
+🌍 Languages
+
 English: Proficient (C1 level)
 Russian: Native speaker
+📬 Contact
 
-Contact:
 📧 Email: yachnytskyi1992@gmail.com
 🔗 GitHub: github.com/yachnytskyi
 🌍 Location: Kyiv, Ukraine
