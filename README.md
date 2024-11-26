@@ -50,7 +50,7 @@ As a backend developer specializing in distributed systems, I bring expertise in
 ---
 
 ## 📜 Certifications  
-- Docker, Kubernetes, PostgreSQL, MongoDB, Redis, Rust, Golang  
+- Docker, Kubernetes, PostgreSQL, MongoDB, Redis, Rust, Golang. 
 
 ---
 
