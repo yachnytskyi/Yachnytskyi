@@ -10,6 +10,7 @@ As a backend developer specializing in distributed systems, I bring expertise in
 ### 🖥️ Backend Development  
 - Proficient in **Golang** & **Rust** for scalable, distributed systems.  
 - Expertise in **microservice architecture** with **gRPC**, **RabbitMQ**, and **NATS**.
+- Skilled in implementing **Hexagonal Architecture**, ensuring clean separation of concerns, maintainability, and adaptability for evolving business needs.  
 
 ### 📊 Data Engineering  
   - Implemented Elasticsearch from scratch, optimizing full-text search, filters, and aggregations for superior performance.  
