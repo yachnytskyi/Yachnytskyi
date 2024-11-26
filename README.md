@@ -26,7 +26,7 @@ As a backend developer specializing in distributed systems, I bring expertise in
 - Practical experience with the **ELK stack** for log aggregation, monitoring, and diagnostics.  
 
 ### 🔄 CI/CD Pipelines  
-- Proficient in **GitLab CI/CD**, **Travis CI**, and **Jenkins** to automate build, test, and deployment workflows.  
+- Proficient in **Github Actions**, **GitLab CI/CD**, **Travis CI**, and **Jenkins** to automate build, test, and deployment workflows.  
 
 ---
 
