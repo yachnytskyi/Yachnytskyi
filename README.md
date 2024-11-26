@@ -43,7 +43,7 @@ As a backend developer specializing in distributed systems, I bring expertise in
 - 🧠 **Problem-Solving Focus**: Strong track record of solving complex technical problems, from scaling backend systems to enhancing reliability.  
 - 🏗️ **Systems Architecture Expertise**: Passionate about clean, maintainable code and scalable system design.
 - 🤝 **Cross-Team Collaboration**: Adept at aligning technical efforts with business goals, ensuring deliverables meet stakeholder needs.  
-- 🌱 **Continuous Learner**: Exploring new domains like game engine development and interactive systems  
+- 🌱 **Continuous Learner**: Exploring new domains like game engine development and interactive systems to expand my technical horizons.  
 
 💡 Let’s connect and build something incredible!  
 
