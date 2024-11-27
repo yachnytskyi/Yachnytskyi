@@ -1,5 +1,5 @@
 # Constantine Yachnytskyi  
-**🚀 Experienced Golang & Rust Developer | Crafting Scalable, High-Performance Backend Systems**  
+**🚀 Experienced Rust & Golang Developer | Crafting Scalable, High-Performance Backend Systems**  
 
 As a backend developer specializing in distributed systems, I bring expertise in designing scalable, high-performance architectures for IT product companies and outsourcing firms. With a passion for optimizing systems and leveraging cutting-edge technologies, I deliver robust solutions tailored to meet complex challenges.  
 
