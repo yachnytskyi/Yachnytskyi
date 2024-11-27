@@ -8,7 +8,7 @@ As a backend developer specializing in distributed systems, I bring expertise in
 ## 🛠️ Core Skills & Expertise  
 
 ### 🖥️ Backend Development  
-- Proficient in **Golang** & **Rust** for scalable, distributed systems.  
+- Proficient in **Rust** & **Golang** for scalable, distributed systems.  
 - Expertise in **microservice architecture** with **gRPC**, **RabbitMQ**, and **NATS**.
 - Skilled in implementing **Hexagonal Architecture**, ensuring clean separation of concerns, maintainability, and adaptability for evolving business needs.  
 
