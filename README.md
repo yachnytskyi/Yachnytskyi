@@ -36,6 +36,7 @@ As a backend developer specializing in distributed systems, I bring expertise in
 - ⚡ Improved SQL query efficiency, cutting execution times by **40%**.  
 - 🔍 Enhanced Elasticsearch performance for faster, more accurate search results.  
 - 🏗️ Designed scalable microservices supporting enterprise operations with Kubernetes.  
+- 🐳 Optimized Docker containers, reducing their size by **up to 100 times** for faster deployments and efficient resource utilization.  
 
 ---
 
