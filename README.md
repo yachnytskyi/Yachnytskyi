@@ -13,7 +13,7 @@ As a backend developer specializing in distributed systems, I bring expertise in
 - Skilled in implementing **Hexagonal Architecture**, ensuring clean separation of concerns, maintainability, and adaptability for evolving business needs.  
 
 ### 📊 Data Engineering  
-  - Implemented Elasticsearch from scratch, optimizing full-text search, filters, and aggregations for superior performance.  
+  - Implemented Elasticsearch pipelines from scratch, optimizing full-text search, filters, and aggregations for superior performance.  
   - Developed reputable, robust pipelines ensuring fault tolerance and data consistency.  
 
 ### 💾 Database Optimization  
