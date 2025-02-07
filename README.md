@@ -64,7 +64,6 @@ As a backend developer specializing in distributed systems, I bring expertise in
 ## 📬 Contact Details  
 📧 [yachnytskyi1992@gmail.com](mailto:yachnytskyi1992@gmail.com)  
 🔗 [GitHub Profile](https://github.com/yachnytskyi)  
-🌍 **Location**: Kyiv, Ukraine | **Available for B2B Contracts**  
 
 ---
 
