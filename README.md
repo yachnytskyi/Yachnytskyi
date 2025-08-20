@@ -1,56 +1,41 @@
 # Constantine Yachnytskyi  
-**🚀 Experienced Rust & Golang Developer | Architect of Scalable, High-Performance Backend Systems**
+**🚀 Rust & Golang Backend Engineer — Distributed Systems | Performance | Reliability**
 
-As a backend specialist in distributed systems, I design, optimize, and deliver robust architectures for IT product companies and outsourcing firms worldwide. I thrive on complex challenges—transforming performance, reliability, and scalability with every project.
-
----
-
-## 🛠️ Core Skills & Expertise
-
-### 🖥️ Backend & Systems Engineering
-- **Rust** & **Golang**: Proficient in building scalable, distributed systems with a focus on performance and reliability.
-- **Microservice Architecture**: Designing modular systems with gRPC, RabbitMQ, and NATS.
-- **Hexagonal Architecture**: Ensuring clean, maintainable, and adaptable codebases.
-
-### 📊 Data Engineering & Optimization
-- Built Elasticsearch pipelines from scratch for lightning-fast, accurate full-text search and analytics.
-- Deep expertise in **PostgreSQL**, **ScyllaDB**, **MongoDB**, and **Redis**—delivering fast, consistent, and reliable data solutions.
-
-### ☁️ Cloud & Containerization
-- Advanced skills in **Docker**, **Kubernetes**, and cloud-native architectures for seamless deployments and efficient workflows.
-
-### 🔍 Observability & Automation
-- Practical experience with the **ELK stack** for monitoring, diagnostics, and log aggregation.
-- CI/CD automation with **GitHub Actions**, **GitLab CI/CD**, **Travis CI**, and **Jenkins**.
+I build and scale cloud-native backends that turn bottlenecks into business impact. My focus: high-performance architecture, data access optimization, and reliable distributed systems—delivered with clear communication and end-to-end ownership.
 
 ---
 
-## 🎯 Key Achievements
+## 🛠️ Core Skills
 
-- 🚀 **Reduced backend page load times from 40–50 seconds to ~1 second** by eliminating N+1 queries and optimizing data access logic.
-- 🔋 **Dropped database CPU load from 100% to 10–15%** during peak hours by engineering composite and JSON indexes.
-- 🔧 **Cut database queries on critical endpoints from 50–60 down to 3–5**, boosting throughput and system reliability.
-- 🛡️ **Engineered and introduced composite, single-column, and JSON indexes**, resulting in database CPU load dropping from 100% during peak hours to a stable 10–15%.</l
-- 📈 **Introduced and integrated advanced features**, including a product rating and commenting system, significantly improving user engagement and platform capabilities.<
-- 🐳 **Optimized Docker containers, reducing their size by up to 100x** for rapid deployment and efficient resource utilization.
-- 🌐 **Built automated data pipelines** for HTML/XML generation and AWS S3 uploads, accelerating delivery and platform capability.
+- **Backend & Systems:** Rust, Golang · Microservices (gRPC) · Messaging (RabbitMQ, NATS) · Hexagonal Architecture
+- **Data & Search:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch · Query tuning & indexing · Caching strategies
+- **Cloud & Containers:** Docker, Kubernetes, AWS · CI/CD (GitHub Actions, GitLab CI/CD, Jenkins, Travis)
+- **Observability:** ELK stack · Metrics, tracing, structured logging
 
 ---
 
-## 🧩 What I Bring to the Table
+## 🎯 Selected Impact
 
-- 🧠 **Problem-Solving Focus**: Proven track record in tackling complex engineering challenges and delivering reliable solutions at scale.
-- 🏗️ **Systems Architecture Expertise**: Passion for clean, maintainable code and future-proof system design.
-- 🤝 **Cross-Team Collaboration**: Aligning technical solutions with business needs, and thriving in global, remote-first teams.
-- 🌱 **Continuous Learning**: Exploring new domains, including game engine development and interactive systems.
+- **40–50s → ~1s page loads** by eliminating N+1 queries and redesigning data access paths.  
+- **DB CPU: 100% → 10–15% at peak** via composite/JSON indexes and query plan tuning.  
+- **50–60 → 3–5 queries per endpoint** on critical paths, increasing throughput and stability.  
+- **100× smaller Docker images** for faster deploys and lower transfer times.  
+- **Automated data pipelines** (HTML/XML gen, AWS S3 uploads) to accelerate delivery.  
+- **Shipped engagement features** (ratings, comments) that boosted product value.
 
-💡 Let’s connect and build something incredible!
+---
+
+## 🧩 How I Work
+
+- **Problem-first:** translate bottlenecks into measurable outcomes.  
+- **Architecture with intent:** clean, maintainable, future-proof designs.  
+- **Reliable delivery:** proactive communication, docs, and testing baked in.  
+- **Remote-native:** async collaboration across time zones.
 
 ---
 
 ## 📜 Certifications
 
-- [Rust](https://link-to-rust-certification)
 - [Golang](https://www.udemy.com/certificate/UC-e2c38a3c-0661-4d78-a8e6-f559bf91629f/)
 - [Python](https://www.udemy.com/certificate/UC-f380e1b9-551e-48e6-bbd5-7b6cc4d375c8/)
 - [Elixir](https://www.udemy.com/certificate/UC-c40c411b-0cf1-4b55-b72f-8c8b101a4184/)
@@ -60,29 +45,26 @@ As a backend specialist in distributed systems, I design, optimize, and deliver 
 - [Microservices](https://www.udemy.com/certificate/UC-e6dd1d99-be1c-4d31-8464-872ac0ab53ea/)
 - [Docker](https://www.udemy.com/certificate/UC-33631986-a950-432d-bbd8-ef74fbc33a7f/)
 
+> (If you have a verifiable Rust cert link, add it here; otherwise remove the Rust cert bullet to avoid dead links.)
+
 ---
 
 ## 🌐 Languages
 
-- 🇺🇸 **English**: Full Professional Proficiency (C1)
-- 🇷🇺 **Russian**: Native
+- **English:** Full Professional (C1)  
+- **Russian:** Native
 
 ---
 
 ## 📬 Contact
 
-- 📧 [yachnytskyi1992@gmail.com](mailto:yachnytskyi1992@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/constantine-yachnytsky)
-- 🐙 [GitHub](https://github.com/yachnytskyi)
+- 📧 [yachnytskyi1992@gmail.com](mailto:yachnytskyi1992@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/constantine-yachnytsky)  
+- 🐙 [GitHub](https://github.com/yachnytskyi)  
 - 🎥 [YouTube](https://youtube.com/@constantineyachnytskyi5258)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Constantine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yachnytskyi&show_icons=true&theme=radical)
-
----
-
-Thanks for visiting my profile!  
-**Let’s build scalable, high-performance systems together. 🚀**
+![Constantine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yachnytskyi&show_icons=true)
