@@ -45,8 +45,6 @@ I build and scale cloud-native backends that turn bottlenecks into business impa
 - [Microservices](https://www.udemy.com/certificate/UC-e6dd1d99-be1c-4d31-8464-872ac0ab53ea/)
 - [Docker](https://www.udemy.com/certificate/UC-33631986-a950-432d-bbd8-ef74fbc33a7f/)
 
-> (If you have a verifiable Rust cert link, add it here; otherwise remove the Rust cert bullet to avoid dead links.)
-
 ---
 
 ## 🌐 Languages
